@@ -19,7 +19,7 @@ It can be built as per:
 docker build -t quay.io/jspc/prox:latest .
 ```
 
-And, obviously, lives on [quay](http://quay.io/jspc/1000aaas).
+And, obviously, lives on [quay](http://quay.io/jspc/prox).
 
 ## Running
 
